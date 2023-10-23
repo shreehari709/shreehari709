@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Shreehari Kalundia</h1>
 <h3 align="center">Enthusiastic beginner with strong front-end, UX/UI, and graphic design skills. Passionate about creating visually appealing, user-friendly experiences. Eager to learn and contribute creatively to diverse projects.</h3>
-<img align="right" alt="Coding" width="400"" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
+
 
 
 - 🔭 I’m currently working on **HTML/CSS**
